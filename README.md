@@ -52,7 +52,7 @@ Final Adjacency Mtrix :
 
 <h2>INPUT AND OUTPUT FOR THE ABOVE EXAMPLE</h2>
 
-<img src="images/Output_img1.png" height = "225"> <img src="images/Output_img2.png" height = "230">
+<img src="images/example_input.png" height = "310"> <img src="images/constraint_graph_example.png" height = "310">
 
 
  
