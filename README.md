@@ -50,4 +50,9 @@ Final Adjacency Mtrix :
 1 0 0 0 0 1 0
 
 
+<h2>INPUT AND OUTPUT FOR THE ABOVE EXAMPLE</h2>
+
+<img src="images/Output_img1.png" height = "225"> <img src="images/Output_img2.png" height = "230">
+
+
  
