@@ -33,22 +33,9 @@ v(6)<v(7)
 Enter constraint 6 ( Format: v(i)<v(j) OR v(i)>v(j) ) : 
 v(7)>v(1)
 
-Final Adjacency Mtrix : 
 
-0 1 0 0 0 0 1 
-
-1 0 1 1 0 0 0 
-
-0 1 0 1 0 0 0 
-
-0 1 1 0 0 0 0 
-
-0 0 0 0 0 0 0 
-
-0 0 0 0 0 0 1 
-
-1 0 0 0 0 1 0
-
+<br>
+The program returns the adjacency matrix and plots the constraint graph.
 
 <h2>INPUT AND OUTPUT FOR THE ABOVE EXAMPLE</h2>
 
