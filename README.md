@@ -2,7 +2,7 @@
 
 The program builds an adjacency matrix to determine a constraint graph from a given set of variables and a set of binary constraints.  
 
-The program takes an input N – the number of variables. (This would be the number of nodes in the constraint graph . The user is free to add any number of variables they want to. ) 
+The program takes an input N – the number of variables. ( This would be the number of nodes in the constraint graph . The user is free to add any number of variables they want to. ) 
 
 From this value of N, we assume that the variables are V(1), V(2) .... V(N) 
 
